@@ -66,7 +66,7 @@ Cybersecurity Specialist / Security-Focused Developer
 ## 🌐 Portfolio & Socials
 
 - GitHub: [@Charles-234](https://github.com/Charles-234)
-- Portfolio: [My Portfolio](https://my-portfolio-jade-six-48.vercel.app)
+- Portfolio: [My Portfolio](https://charles-mwaura.netlify.app/)
 
 ## 🤝 Open to
 
