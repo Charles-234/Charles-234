@@ -11,13 +11,33 @@
 
 ## 👋 About Me
 
-I'm a cybersecurity-focused developer and software engineer passionate about secure systems, automation, and practical technology solutions. I enjoy building software that is not only functional, but also resilient, secure, and scalable.
+I'm a 🖥️ IT Support & Technical Skills cybersecurity-focused developer and software engineer passionate about secure systems, automation, and practical technology solutions. I enjoy building software that is not only functional, but also resilient, secure, and scalable.
 
 ## 🔐 Current Role
 
-Cybersecurity Specialist / Security-Focused Developer
+I'm developing practical cybersecurity knowledge through the ALX Cybersecurity programme and independent learning. 
 
 ## 🧠 What I Focus On
+
+Network security and troubleshooting.
+
+Linux fundamentals and command-line operations.
+
+Vulnerability assessment and security testing in authorized environments.
+
+Security monitoring and defensive engineering.
+
+Access control and authentication.
+
+Web application security.
+
+Security awareness and responsible vulnerability research.
+
+I aim to develop security skills through structured learning, authorized labs, practical projects, and documented results.
+
+💻 Software Development & AI
+
+I am interested in developing secure, maintainable applications and using AI to improve workflows.
 
 - Cybersecurity and threat awareness
 - Secure application development
@@ -56,12 +76,26 @@ Cybersecurity Specialist / Security-Focused Developer
 - AI-driven automation
 - Defensive engineering and resilient systems
 
-## 🚀 Key Achievements
+  
+- 🚀 Projects & Practical Learning and  Key Achievements
 
-- Built security-aware and scalable technical solutions
-- Worked across software engineering, automation, and cybersecurity
-- Created portfolio and project work centered on practical innovation
-- Focused on clean architecture, security-first development, and reliability
+I use personal projects to strengthen my technical abilities and demonstrate what I learn.
+
+Lionel / Phantom Agent
+
+An AI agent project exploring AI-assisted workflows, cybersecurity tooling, automation, and modular software architecture.
+
+Church website to demonstrate my skills in using AI: https://glorious-restoration-embassy.vercel.app/
+
+🎓 Education & Certifications
+
+ALX Cybersecurity Certificate — 13-week programme, issued September 2026.
+
+ALX AI Career Essentials (AiCE) Certificate — 6-week programme, issued April 2026.
+
+ALX Professional Foundations Certificate — Professional development skills for the digital age, issued May 2026.
+
+Computer Packages Certificate — House of Plenty Vocational Training Institute, 2014.
 
 ## 🌐 Portfolio & Socials
 
